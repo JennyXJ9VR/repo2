@@ -1,11 +1,11 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: aor Tech Enterprises Repo
+Label: aor Tech
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: aortech
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: aor Tech Tweaks
 MD5Sum:
  b5bd9878d98f98383fe9acbc119ff5af 82775 Packages
  ec047fe4179c084cb3c28140d21bdf8b 22405 Packages.bz2
